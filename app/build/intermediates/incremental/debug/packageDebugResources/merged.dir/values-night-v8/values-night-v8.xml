@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="asunto">Asunto</string>
+    <string name="enviar">Enviar</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="para">Para</string>
+    <style name="Base.Theme.LayoutsExample" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+</resources>

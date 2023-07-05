@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string asunto
+string close
+string enviar
+string login
+string mensaje
+string para
+string signup
+style Base.Theme.LayoutsExample
+style Theme.LayoutsExample
+xml backup_rules
+xml data_extraction_rules

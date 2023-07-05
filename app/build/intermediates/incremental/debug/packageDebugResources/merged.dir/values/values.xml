@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">LayoutsExample</string>
+    <string name="asunto">Asunto</string>
+    <string name="close">Close</string>
+    <string name="enviar">Enviar</string>
+    <string name="login">Login</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="para">Para</string>
+    <string name="signup">SignUp</string>
+    <style name="Base.Theme.LayoutsExample" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.LayoutsExample" parent="Base.Theme.LayoutsExample"/>
+</resources>
